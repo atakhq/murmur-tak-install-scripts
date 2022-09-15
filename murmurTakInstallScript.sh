@@ -2,6 +2,7 @@
 echo " "
 echo " "
 echo "Murmur (Mumble) VOIP Install Script for use with TAK Server CentOs7"
+echo "** YOU MUST RUN THIS SCRIPT AS ROOT USER **"
 echo " "
 
 read -p "Press any key to begin ..."
