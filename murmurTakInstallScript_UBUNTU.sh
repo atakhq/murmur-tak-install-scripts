@@ -82,13 +82,13 @@ sudo systemctl daemon-reload
 #Enable on boot, start, log status
 sudo systemctl enable murmur.service
 sudo systemctl start murmur.service
-sudo systemctl status murmur.service
-
 
 echo " "
 echo " "
 echo "****************************************************************"
-echo "Murmur has been installed and should be running (verify above should see green dot and say Active)"
+echo "Murmur has been installed and should be running"
+echo "Verify its running using this command:"
+echo "sudo systemctl status murmur.service"
 echo "Server Login Password: $PASSWD"
 echo "****************************************************************"
 echo " "
