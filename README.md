@@ -12,6 +12,11 @@ Script package to auto-install and configure Murmur (Mumble Server) for use in T
 
 `sudo chmod +x *`
 
-`. murmurTakInstallScript.sh`
+`. murmurTakInstallScript_CENTOS7.sh`
+
+or
+
+
+`. murmurTakInstallScript_UBUNTU.sh`
 
 3. Script should finish in under a minute.
