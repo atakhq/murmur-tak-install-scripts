@@ -1,5 +1,5 @@
 # murmur-tak-install-scripts
-Script package to auto-install and configure Murmur (Mumble Server) for use in TAK server applications.
+# This Script package to auto-install and configure Murmur (Mumble Server) for use in TAK server applications.
 
 
 1. SSH into your TAK server, (we will assume you already have git installed to clone this repo)
@@ -20,3 +20,5 @@ or
 `. murmurTakInstallScript_UBUNTU.sh`
 
 3. Script should finish in under a minute.
+
+Detailed manual steps here and connection help: https://atakhq.com/en/tak-server/private-voip
